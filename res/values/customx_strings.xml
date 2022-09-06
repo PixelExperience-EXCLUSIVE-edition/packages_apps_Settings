@@ -330,4 +330,8 @@
     <string name="display_cutout_force_fullscreen_title">Full screen apps</string>
     <string name="display_cutout_force_fullscreen_summary">Force apps to ignore notch space</string>
 
+    <!-- Black theme -->
+    <string name="system_black_theme_title">Use Black theme</string>
+    <string name="system_black_theme_summary">Force black background colors</string>
+
 </resources>
